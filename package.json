@@ -1,0 +1,16 @@
+{
+  "name": "node_school",
+  "version": "1.0.0",
+  "description": "Mi resolución de los ejercicios de nodeSchool.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "nodeSchool.io"
+  ],
+  "author": "Jośe María Gutiérrez",
+  "license": "MIT",
+  "private": true
+}
