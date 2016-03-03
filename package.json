@@ -12,5 +12,8 @@
   ],
   "author": "Jośe María Gutiérrez",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "concat-stream": "^1.5.1"
+  }
 }
